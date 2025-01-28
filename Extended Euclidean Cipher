@@ -56,3 +56,11 @@ public class extendedEuclidean {
         scanner.close();
     }
 }
+
+Output:
+Enter a number (a): 5
+The modular inverse of 5 modulo 26 is: 21
+
+Enter a number (a): 13
+No modular inverse exists for 13 modulo 26
+
